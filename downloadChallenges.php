@@ -73,7 +73,7 @@ function challengeMain(): int
     return $failed ? 1 : 0;
 }
 
-function challengeSummary(array $payload, array $decks, array $results): string
+function orderChallengeDecks(array $payload, array $decks): array
 {
     $ranks = [];
     // Decklist order and Swiss standings do not represent final playoff places.
@@ -83,26 +83,24 @@ function challengeSummary(array $payload, array $decks, array $results): string
             $ranks[(string) $standing['loginid']] = $rank;
         }
     }
-    $rows = [];
-    foreach ($decks as $key => $deck) {
+    uasort($decks, static function ($left, $right) use ($ranks) {
+        return (($ranks[(string) $left['loginid']] ?? PHP_INT_MAX)
+            <=> ($ranks[(string) $right['loginid']] ?? PHP_INT_MAX))
+            ?: strcmp($left['player'], $right['player']);
+    });
+    return $decks;
+}
+
+function challengeSummary(array $payload, array $decks, array $results): string
+{
+    $output = '';
+    foreach (orderChallengeDecks($payload, $decks) as $key => $deck) {
         $result = $results[$key] ?? null;
         $classification = 'Unknown, confirm manually';
         if ($result !== null && !($result['is_unknown'] ?? true)) {
             $classification = $result['rules']['classification'] ?? $result['classification'];
         }
-        $rows[] = [
-            'place' => $ranks[(string) $deck['loginid']] ?? null,
-            'player' => $deck['player'],
-            'classification' => $classification,
-        ];
-    }
-    usort($rows, static function ($left, $right) {
-        return (($left['place'] ?? PHP_INT_MAX) <=> ($right['place'] ?? PHP_INT_MAX))
-            ?: strcmp($left['player'], $right['player']);
-    });
-    $output = '';
-    foreach ($rows as $row) {
-        $output .= str_replace(["\t", "\r", "\n"], ' ', $row['classification']) . PHP_EOL;
+        $output .= str_replace(["\t", "\r", "\n"], ' ', $classification) . PHP_EOL;
     }
     return $output;
 }
@@ -234,7 +232,7 @@ function normalizeChallengeDecks(array $payload): array
         }
         $decks[$key] = $deck;
     }
-    return $decks;
+    return orderChallengeDecks($payload, $decks);
 }
 
 function saveChallengeDecks(string $filename, array $decks): void
