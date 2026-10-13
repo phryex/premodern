@@ -96,7 +96,7 @@ function challengeSummary(array $payload, array $decks, array $results): string
     $output = '';
     foreach (orderChallengeDecks($payload, $decks) as $key => $deck) {
         $result = $results[$key] ?? null;
-        $classification = 'Unknown, confirm manually';
+        $classification = '[=== UNKNOWN ===]';
         if ($result !== null && !($result['is_unknown'] ?? true)) {
             $classification = $result['rules']['classification'] ?? $result['classification'];
         }
