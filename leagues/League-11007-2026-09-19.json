@@ -1,0 +1,126 @@
+{
+    "35947274-thekid": {
+        "player": "thekid",
+        "loginplayeventcourseid": "35947274",
+        "loginid": "35419",
+        "instance_id": "11007_2026-09-19",
+        "MD": [
+            "4 Ball Lightning",
+            "2 Barbarian Ring",
+            "4 Bloodstained Mire",
+            "2 Cursed Scroll",
+            "4 Fireblast",
+            "4 Grim Lavamancer",
+            "4 Incinerate",
+            "4 Jackal Pup",
+            "4 Lightning Bolt",
+            "4 Mogg Fanatic",
+            "10 Mountain",
+            "3 Price of Progress",
+            "4 Seal of Fire",
+            "3 Sulfuric Vortex",
+            "4 Wooded Foothills"
+        ],
+        "SB": [
+            "2 Anarchy",
+            "3 Lava Dart",
+            "1 Mogg Salvage",
+            "3 Overload",
+            "1 Price of Progress",
+            "3 Pyroblast",
+            "2 Tormod's Crypt"
+        ]
+    },
+    "35948907-Brain4": {
+        "player": "Brain4",
+        "loginplayeventcourseid": "35948907",
+        "loginid": "2923335",
+        "instance_id": "11007_2026-09-19",
+        "MD": [
+            "3 Bloodstained Mire",
+            "1 Earthquake",
+            "4 Fireblast",
+            "4 Grim Lavamancer",
+            "4 Incinerate",
+            "4 Jackal Pup",
+            "4 Lightning Bolt",
+            "4 Mishra's Factory",
+            "4 Mogg Fanatic",
+            "12 Mountain",
+            "4 Pyrostatic Pillar",
+            "1 Reckless Abandon",
+            "4 Seal of Fire",
+            "4 Sulfuric Vortex",
+            "3 Wooded Foothills"
+        ],
+        "SB": [
+            "2 Earthquake",
+            "4 Goblin Cadets",
+            "1 Mogg Salvage",
+            "3 Overload",
+            "2 Pyroblast",
+            "3 Red Elemental Blast"
+        ]
+    },
+    "35949392-tripleAAA": {
+        "player": "tripleAAA",
+        "loginplayeventcourseid": "35949392",
+        "loginid": "2815218",
+        "instance_id": "11007_2026-09-19",
+        "MD": [
+            "4 Accumulated Knowledge",
+            "1 Chain of Vapor",
+            "4 Counterspell",
+            "1 Deep Analysis",
+            "4 Duress",
+            "4 Foil",
+            "4 Gush",
+            "3 Impulse",
+            "10 Island",
+            "4 Opt",
+            "4 Polluted Delta",
+            "4 Portent",
+            "4 Psychatog",
+            "2 Sickening Dreams",
+            "2 Smother",
+            "2 Swamp",
+            "3 Underground River"
+        ],
+        "SB": [
+            "2 Annul",
+            "1 Brain Freeze",
+            "2 Engineered Plague",
+            "4 Hydroblast",
+            "2 Powder Keg",
+            "1 Reanimate",
+            "1 Smother",
+            "2 Tsabo's Web"
+        ]
+    },
+    "35950065-Gaffiere1903": {
+        "player": "Gaffiere1903",
+        "loginplayeventcourseid": "35950065",
+        "loginid": "1212739",
+        "instance_id": "11007_2026-09-19",
+        "MD": [
+            "4 Black Vise",
+            "4 Fireblast",
+            "4 Flame Rift",
+            "4 Grim Lavamancer",
+            "4 Incinerate",
+            "4 Lightning Bolt",
+            "4 Mishra's Factory",
+            "4 Mogg Fanatic",
+            "18 Mountain",
+            "2 Price of Progress",
+            "4 Pyrostatic Pillar",
+            "4 Seal of Fire"
+        ],
+        "SB": [
+            "4 Mogg Salvage",
+            "3 Overload",
+            "4 Red Elemental Blast",
+            "4 Rejuvenation Chamber"
+        ]
+    }
+}

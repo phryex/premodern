@@ -1,0 +1,99 @@
+{
+    "34033968-T0G_MAZTER": {
+        "player": "T0G_MAZTER",
+        "loginplayeventcourseid": "34033968",
+        "loginid": "328168",
+        "instance_id": "10096_2025-12-17",
+        "MD": [
+            "4 Reanimate",
+            "4 Exhume",
+            "4 Animate Dead",
+            "4 Dark Ritual",
+            "4 Putrid Imp",
+            "2 Unmask",
+            "4 Cabal Therapy",
+            "4 Lotus Petal",
+            "4 Careful Study",
+            "4 Symbiotic Wurm",
+            "4 Verdant Force",
+            "4 Visara the Dreadful",
+            "4 City of Brass",
+            "4 Gemstone Mine",
+            "2 Undiscovered Paradise",
+            "4 Swamp"
+        ],
+        "SB": [
+            "4 Multani, Maro-Sorcerer",
+            "4 Phantom Nishoba",
+            "2 Red Elemental Blast",
+            "3 Stronghold Gambit",
+            "2 Firestorm"
+        ]
+    },
+    "34034414-NeonMushroom77": {
+        "player": "NeonMushroom77",
+        "loginplayeventcourseid": "34034414",
+        "loginid": "1095730",
+        "instance_id": "10096_2025-12-17",
+        "MD": [
+            "16 Island",
+            "2 Flash of Insight",
+            "4 Phyrexian Dreadnought",
+            "4 Vision Charm",
+            "4 Foil",
+            "1 Powder Keg",
+            "3 Daze",
+            "2 Chain of Vapor",
+            "4 Stifle",
+            "2 Opt",
+            "4 Counterspell",
+            "2 Mishra's Factory",
+            "4 Gush",
+            "4 Portent",
+            "4 Impulse"
+        ],
+        "SB": [
+            "2 Annul",
+            "2 Phyrexian Furnace",
+            "1 Essence Flare",
+            "2 Powder Keg",
+            "3 Parallax Tide",
+            "2 Brain Freeze",
+            "3 Hydroblast"
+        ]
+    },
+    "34034747-Soup_Smuggler": {
+        "player": "Soup_Smuggler",
+        "loginplayeventcourseid": "34034747",
+        "loginid": "3406759",
+        "instance_id": "10096_2025-12-17",
+        "MD": [
+            "3 Impulse",
+            "4 Vision Charm",
+            "4 Portent",
+            "3 Gush",
+            "1 Thwart",
+            "4 Stifle",
+            "4 Accumulated Knowledge",
+            "1 Opt",
+            "2 Flash of Insight",
+            "1 Chain of Vapor",
+            "2 Mishra's Factory",
+            "4 Foil",
+            "4 Phyrexian Dreadnought",
+            "1 Powder Keg",
+            "16 Island",
+            "4 Counterspell",
+            "2 Daze"
+        ],
+        "SB": [
+            "2 Chain of Vapor",
+            "3 Parallax Tide",
+            "1 Brain Freeze",
+            "2 Annul",
+            "1 Powder Keg",
+            "3 Blue Elemental Blast",
+            "3 Essence Flare"
+        ]
+    }
+}

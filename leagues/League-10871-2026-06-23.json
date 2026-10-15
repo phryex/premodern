@@ -1,0 +1,41 @@
+{
+    "35345518-bosserman": {
+        "player": "bosserman",
+        "loginplayeventcourseid": "35345518",
+        "loginid": "1194689",
+        "instance_id": "10871_2026-06-23",
+        "MD": [
+            "4 Argothian Enchantress",
+            "4 Brushland",
+            "1 Dust Bowl",
+            "2 Elephant Grass",
+            "4 Enchantress's Presence",
+            "3 Exploration",
+            "7 Forest",
+            "4 Mirri's Guile",
+            "2 Opalescence",
+            "2 Parallax Wave",
+            "3 Plains",
+            "1 Replenish",
+            "4 Seal of Cleansing",
+            "4 Serra's Sanctum",
+            "2 Solitary Confinement",
+            "3 Sterling Grove",
+            "2 Swords to Plowshares",
+            "4 Wild Growth",
+            "4 Windswept Heath"
+        ],
+        "SB": [
+            "2 Abeyance",
+            "2 Aura of Silence",
+            "1 Carpet of Flowers",
+            "1 Decree of Justice",
+            "1 Krosan Reclamation",
+            "1 Replenish",
+            "1 Sacred Ground",
+            "1 Swords to Plowshares",
+            "4 Tormod's Crypt",
+            "1 Warmth"
+        ]
+    }
+}

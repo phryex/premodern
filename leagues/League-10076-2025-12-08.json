@@ -1,0 +1,138 @@
+{
+    "33961844-tbundz": {
+        "player": "tbundz",
+        "loginplayeventcourseid": "33961844",
+        "loginid": "3380185",
+        "instance_id": "10076_2025-12-08",
+        "MD": [
+            "4 Terravore",
+            "3 Forest",
+            "3 Sylvan Library",
+            "3 Naturalize",
+            "1 Earthquake",
+            "1 Mountain",
+            "4 Thermokarst",
+            "4 Winter's Grasp",
+            "4 Oath of Druids",
+            "4 Wooded Foothills",
+            "2 Pyroclasm",
+            "4 Sphere of Resistance",
+            "4 Mishra's Factory",
+            "4 Treetop Village",
+            "3 Mox Diamond",
+            "4 Wasteland",
+            "4 Karplusan Forest",
+            "4 Rishadan Port"
+        ],
+        "SB": [
+            "1 Pyroclasm",
+            "1 Red Elemental Blast",
+            "1 Pyroblast",
+            "2 Powder Keg",
+            "2 Tranquil Domain",
+            "2 Zuran Orb",
+            "2 Phyrexian Furnace",
+            "3 Call of the Herd"
+        ]
+    },
+    "33962371-Firetruck": {
+        "player": "Firetruck",
+        "loginplayeventcourseid": "33962371",
+        "loginid": "2699616",
+        "instance_id": "10076_2025-12-08",
+        "MD": [
+            "1 Mana Short",
+            "19 Island",
+            "3 Forsaken City",
+            "1 Flash of Insight",
+            "1 Annul",
+            "3 Black Vise",
+            "2 Powder Keg",
+            "3 Thwart",
+            "4 Counterspell",
+            "4 Gush",
+            "4 Daze",
+            "4 Chain of Vapor",
+            "4 Stasis",
+            "2 Foil",
+            "4 Impulse",
+            "1 Cephalid Coliseum"
+        ],
+        "SB": [
+            "1 Mana Short",
+            "2 Hibernation",
+            "3 Annul",
+            "2 Gaea's Blessing",
+            "3 Chill",
+            "1 Brain Freeze",
+            "1 Hydroblast",
+            "2 Blue Elemental Blast"
+        ]
+    },
+    "33962434-MagicPlayer103758": {
+        "player": "MagicPlayer103758",
+        "loginplayeventcourseid": "33962434",
+        "loginid": "410086",
+        "instance_id": "10076_2025-12-08",
+        "MD": [
+            "2 Diabolic Edict",
+            "4 Wasteland",
+            "4 Duress",
+            "3 Cabal Therapy",
+            "4 Withered Wretch",
+            "4 Dark Ritual",
+            "4 Hypnotic Specter",
+            "2 Smother",
+            "2 Snuff Out",
+            "4 Nantuko Shade",
+            "4 Mishra's Factory",
+            "4 Phyrexian Arena",
+            "16 Swamp",
+            "3 Cursed Scroll"
+        ],
+        "SB": [
+            "2 Phyrexian Furnace",
+            "2 Gloom",
+            "2 Powder Keg",
+            "3 Dystopia",
+            "4 Engineered Plague",
+            "2 Zuran Orb"
+        ]
+    },
+    "33963442-njmickel": {
+        "player": "njmickel",
+        "loginplayeventcourseid": "33963442",
+        "loginid": "1206489",
+        "instance_id": "10076_2025-12-08",
+        "MD": [
+            "17 Island",
+            "4 Stifle",
+            "4 Counterspell",
+            "4 Portent",
+            "2 Thwart",
+            "2 Daze",
+            "2 Flash of Insight",
+            "4 Impulse",
+            "2 Opt",
+            "4 Foil",
+            "1 Powder Keg",
+            "4 Accumulated Knowledge",
+            "1 Chain of Vapor",
+            "4 Vision Charm",
+            "4 Phyrexian Dreadnought",
+            "1 Gush"
+        ],
+        "SB": [
+            "1 Powder Keg",
+            "1 Gush",
+            "1 Tsabo's Web",
+            "1 Brain Freeze",
+            "2 Dominate",
+            "1 Hydroblast",
+            "2 Essence Flare",
+            "2 Blue Elemental Blast",
+            "3 Annul",
+            "1 Flash of Insight"
+        ]
+    }
+}

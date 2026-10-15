@@ -1,0 +1,203 @@
+{
+    "34985723-Victgobra20": {
+        "player": "Victgobra20",
+        "loginplayeventcourseid": "34985723",
+        "loginid": "3533447",
+        "instance_id": "10652_2026-05-08",
+        "MD": [
+            "4 Ball Lightning",
+            "4 Barbarian Ring",
+            "4 Bloodstained Mire",
+            "3 Cursed Scroll",
+            "4 Fireblast",
+            "4 Goblin Patrol",
+            "4 Grim Lavamancer",
+            "4 Incinerate",
+            "4 Jackal Pup",
+            "4 Lightning Bolt",
+            "4 Mogg Fanatic",
+            "9 Mountain",
+            "4 Seal of Fire",
+            "4 Wooded Foothills"
+        ],
+        "SB": [
+            "3 Earthquake",
+            "4 Flame Rift",
+            "1 Mogg Salvage",
+            "3 Overload",
+            "4 Pyroblast"
+        ]
+    },
+    "34987207-Thursdayisgod": {
+        "player": "Thursdayisgod",
+        "loginplayeventcourseid": "34987207",
+        "loginid": "798539",
+        "instance_id": "10652_2026-05-08",
+        "MD": [
+            "2 Arcane Denial",
+            "4 Black Vise",
+            "1 Cephalid Coliseum",
+            "4 Chain of Vapor",
+            "4 Counterspell",
+            "2 Daze",
+            "1 Flash of Insight",
+            "1 Foil",
+            "4 Forsaken City",
+            "4 Gush",
+            "4 Impulse",
+            "18 Island",
+            "2 Powder Keg",
+            "4 Stasis",
+            "3 Thwart",
+            "1 Tsabo's Web",
+            "1 Upheaval"
+        ],
+        "SB": [
+            "1 Annul",
+            "2 Blue Elemental Blast",
+            "2 Brain Freeze",
+            "2 Chill",
+            "2 Cursed Totem",
+            "1 Flash of Insight",
+            "3 Hibernation",
+            "2 Hydroblast"
+        ]
+    },
+    "34990963-J_ackal": {
+        "player": "J_ackal",
+        "loginplayeventcourseid": "34990963",
+        "loginid": "1160842",
+        "instance_id": "10652_2026-05-08",
+        "MD": [
+            "4 Accumulated Knowledge",
+            "1 Chain of Vapor",
+            "4 Counterspell",
+            "2 Daze",
+            "2 Flash of Insight",
+            "4 Foil",
+            "4 Gush",
+            "3 Impulse",
+            "17 Island",
+            "2 Peek",
+            "4 Phyrexian Dreadnought",
+            "4 Portent",
+            "1 Powder Keg",
+            "4 Stifle",
+            "4 Vision Charm"
+        ],
+        "SB": [
+            "3 Annul",
+            "2 Brain Freeze",
+            "1 Deep Analysis",
+            "3 Essence Flare",
+            "2 Hydroblast",
+            "2 Tormod's Crypt",
+            "2 Tsabo's Web"
+        ]
+    },
+    "34992583-Cyberpunker": {
+        "player": "Cyberpunker",
+        "loginplayeventcourseid": "34992583",
+        "loginid": "2849121",
+        "instance_id": "10652_2026-05-08",
+        "MD": [
+            "2 Arrogant Wurm",
+            "4 Basking Rootwalla",
+            "4 Careful Study",
+            "1 City of Brass",
+            "3 Daze",
+            "6 Forest",
+            "3 Frantic Search",
+            "1 Gaea's Cradle",
+            "1 Gilded Drake",
+            "7 Island",
+            "4 Pyrokinesis",
+            "2 Roar of the Wurm",
+            "4 Squee, Goblin Nabob",
+            "4 Survival of the Fittest",
+            "3 Wasteland",
+            "2 Waterfront Bouncer",
+            "4 Wild Mongrel",
+            "1 Wonder",
+            "4 Yavimaya Coast"
+        ],
+        "SB": [
+            "4 Cave-In",
+            "3 Counterspell",
+            "2 Gaea's Blessing",
+            "1 Gilded Drake",
+            "2 Naturalize",
+            "3 Reverent Silence"
+        ]
+    },
+    "34994072-if_then_else": {
+        "player": "if_then_else",
+        "loginplayeventcourseid": "34994072",
+        "loginid": "3529710",
+        "instance_id": "10652_2026-05-08",
+        "MD": [
+            "4 Cabal Therapy",
+            "1 Chainer's Edict",
+            "2 Cursed Scroll",
+            "4 Dark Ritual",
+            "2 Diabolic Edict",
+            "4 Duress",
+            "1 Graveborn Muse",
+            "4 Hypnotic Specter",
+            "4 Mishra's Factory",
+            "3 Nantuko Shade",
+            "1 Plaguebearer",
+            "4 Ravenous Rats",
+            "3 Smother",
+            "1 Spawning Pool",
+            "16 Swamp",
+            "2 Wasteland",
+            "4 Withered Wretch"
+        ],
+        "SB": [
+            "1 Drain Life",
+            "3 Dystopia",
+            "4 Engineered Plague",
+            "2 Gloom",
+            "1 Graveborn Muse",
+            "1 Powder Keg",
+            "2 Tormod's Crypt",
+            "1 Vendetta"
+        ]
+    },
+    "34999100-RAV92": {
+        "player": "RAV92",
+        "loginplayeventcourseid": "34999100",
+        "loginid": "2862636",
+        "instance_id": "10652_2026-05-08",
+        "MD": [
+            "4 Accumulated Knowledge",
+            "2 Armageddon",
+            "4 City of Brass",
+            "4 Counterspell",
+            "2 Fire\/Ice",
+            "4 Flooded Strand",
+            "2 Foil",
+            "2 Gemstone Mine",
+            "4 Gush",
+            "2 Impulse",
+            "9 Island",
+            "3 Lightning Angel",
+            "3 Meddling Mage",
+            "3 Mox Diamond",
+            "1 Plains",
+            "4 Portent",
+            "3 Psychatog",
+            "4 Swords to Plowshares"
+        ],
+        "SB": [
+            "1 Blue Elemental Blast",
+            "3 Call of the Herd",
+            "2 Disenchant",
+            "2 Gaea's Blessing",
+            "2 Hydroblast",
+            "3 Pyroclasm",
+            "2 Ray of Revelation"
+        ]
+    }
+}

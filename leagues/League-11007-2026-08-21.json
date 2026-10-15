@@ -1,0 +1,258 @@
+{
+    "35726043-Lagerbon": {
+        "player": "Lagerbon",
+        "loginplayeventcourseid": "35726043",
+        "loginid": "1641032",
+        "instance_id": "11007_2026-08-21",
+        "MD": [
+            "4 Cabal Therapy",
+            "3 Contamination",
+            "4 Duress",
+            "1 Engineered Plague",
+            "1 High Market",
+            "3 Innocent Blood",
+            "4 Mishra's Factory",
+            "4 Nether Spirit",
+            "2 Phyrexian Furnace",
+            "2 Powder Keg",
+            "4 Rishadan Port",
+            "1 Sickening Dreams",
+            "3 Skeletal Scrying",
+            "1 Smother",
+            "1 Snuff Out",
+            "13 Swamp",
+            "4 Urza's Bauble",
+            "2 Wasteland",
+            "4 Zombie Infestation"
+        ],
+        "SB": [
+            "2 Cursed Scroll",
+            "1 Dystopia",
+            "3 Engineered Plague",
+            "2 Nevinyrral's Disk",
+            "1 Phyrexian Processor",
+            "1 Powder Keg",
+            "1 Smokestack",
+            "1 Smother",
+            "2 Tormod's Crypt",
+            "1 Zuran Orb"
+        ]
+    },
+    "35731991-Urposaurus": {
+        "player": "Urposaurus",
+        "loginplayeventcourseid": "35731991",
+        "loginid": "1066504",
+        "instance_id": "11007_2026-08-21",
+        "MD": [
+            "3 Fireblast",
+            "1 Gempalm Incinerator",
+            "4 Goblin Goon",
+            "4 Goblin Lackey",
+            "4 Goblin Piledriver",
+            "4 Goblin Warchief",
+            "4 Incinerate",
+            "4 Lightning Bolt",
+            "4 Mishra's Factory",
+            "4 Mogg Fanatic",
+            "16 Mountain",
+            "4 Rishadan Port",
+            "4 Siege-Gang Commander"
+        ],
+        "SB": [
+            "1 Anarchy",
+            "2 Flaring Pain",
+            "2 Mogg Salvage",
+            "1 Overload",
+            "3 Pyrokinesis",
+            "3 Red Elemental Blast",
+            "1 Threaten",
+            "2 Tormod's Crypt"
+        ]
+    },
+    "35734463-ChumBucketKeen": {
+        "player": "ChumBucketKeen",
+        "loginplayeventcourseid": "35734463",
+        "loginid": "3184377",
+        "instance_id": "11007_2026-08-21",
+        "MD": [
+            "2 Bloodstained Mire",
+            "4 Cabal Therapy",
+            "4 Call of the Herd",
+            "4 Duress",
+            "5 Forest",
+            "3 Gamekeeper",
+            "1 Grand Coliseum",
+            "4 Innocent Blood",
+            "4 Llanowar Wastes",
+            "1 Oath of Druids",
+            "4 Pernicious Deed",
+            "1 Phyrexian Furnace",
+            "1 Rishadan Port",
+            "2 Skeletal Scrying",
+            "2 Smother",
+            "7 Swamp",
+            "3 Terravore",
+            "3 Treetop Village",
+            "4 Wasteland",
+            "1 Wooded Foothills"
+        ],
+        "SB": [
+            "1 Dust Bowl",
+            "3 Engineered Plague",
+            "4 Naturalize",
+            "2 Oath of Druids",
+            "1 Phyrexian Furnace",
+            "3 Ravenous Baloth",
+            "1 Tranquil Domain"
+        ]
+    },
+    "35734544-Applesauce473": {
+        "player": "Applesauce473",
+        "loginplayeventcourseid": "35734544",
+        "loginid": "2676347",
+        "instance_id": "11007_2026-08-21",
+        "MD": [
+            "4 Black Vise",
+            "4 Fireblast",
+            "4 Flame Rift",
+            "4 Grim Lavamancer",
+            "4 Incinerate",
+            "4 Lightning Bolt",
+            "4 Mishra's Factory",
+            "4 Mogg Fanatic",
+            "18 Mountain",
+            "2 Price of Progress",
+            "4 Pyrostatic Pillar",
+            "4 Seal of Fire"
+        ],
+        "SB": [
+            "4 Mogg Salvage",
+            "4 Overload",
+            "4 Red Elemental Blast",
+            "3 Rejuvenation Chamber"
+        ]
+    },
+    "35735491-Paiva1991": {
+        "player": "Paiva1991",
+        "loginplayeventcourseid": "35735491",
+        "loginid": "3211246",
+        "instance_id": "11007_2026-08-21",
+        "MD": [
+            "4 Bloodstained Mire",
+            "2 Cursed Scroll",
+            "2 Earthquake",
+            "4 Fireblast",
+            "4 Grim Lavamancer",
+            "4 Incinerate",
+            "4 Jackal Pup",
+            "4 Lightning Bolt",
+            "4 Mishra's Factory",
+            "4 Mogg Fanatic",
+            "10 Mountain",
+            "4 Pyrostatic Pillar",
+            "4 Seal of Fire",
+            "2 Sulfuric Vortex",
+            "4 Wooded Foothills"
+        ],
+        "SB": [
+            "2 Flaring Pain",
+            "4 Overload",
+            "3 Price of Progress",
+            "2 Pyrokinesis",
+            "4 Red Elemental Blast"
+        ]
+    },
+    "35736993-Martin_Oviedo": {
+        "player": "Martin_Oviedo",
+        "loginplayeventcourseid": "35736993",
+        "loginid": "3505764",
+        "instance_id": "11007_2026-08-21",
+        "MD": [
+            "3 Abeyance",
+            "4 Adarkar Wastes",
+            "4 Ancient Tomb",
+            "4 Attunement",
+            "3 Decree of Silence",
+            "4 Flooded Strand",
+            "3 Frantic Search",
+            "3 Intuition",
+            "4 Island",
+            "4 Opalescence",
+            "4 Parallax Wave",
+            "5 Plains",
+            "4 Replenish",
+            "3 Seal of Cleansing",
+            "4 Skycloud Expanse",
+            "4 Swords to Plowshares"
+        ],
+        "SB": [
+            "3 Blue Elemental Blast",
+            "4 Defense Grid",
+            "3 Exalted Angel",
+            "4 Meddling Mage",
+            "1 Sphere of Law"
+        ]
+    },
+    "35738407-Aetavrenz": {
+        "player": "Aetavrenz",
+        "loginplayeventcourseid": "35738407",
+        "loginid": "2043884",
+        "instance_id": "11007_2026-08-21",
+        "MD": [
+            "3 Bloodstained Mire",
+            "4 Fireblast",
+            "4 Goblin Cadets",
+            "4 Goblin Piledriver",
+            "3 Goblin Vandal",
+            "4 Grim Lavamancer",
+            "4 Incinerate",
+            "4 Lightning Bolt",
+            "4 Mishra's Factory",
+            "4 Mogg Fanatic",
+            "8 Mountain",
+            "4 Seal of Fire",
+            "3 Sulfuric Vortex",
+            "3 Wasteland",
+            "4 Wooded Foothills"
+        ],
+        "SB": [
+            "2 Cursed Scroll",
+            "4 Mogg Salvage",
+            "2 Overload",
+            "2 Pyroblast",
+            "4 Pyrostatic Pillar",
+            "1 Red Elemental Blast"
+        ]
+    },
+    "35741773-Xissas": {
+        "player": "Xissas",
+        "loginplayeventcourseid": "35741773",
+        "loginid": "3192467",
+        "instance_id": "11007_2026-08-21",
+        "MD": [
+            "3 Bottomless Pit",
+            "1 Chain of Smog",
+            "3 Cursed Scroll",
+            "4 Duress",
+            "3 Ensnaring Bridge",
+            "4 Funeral Charm",
+            "4 Hypnotic Specter",
+            "4 Innocent Blood",
+            "4 Rishadan Port",
+            "4 Scalding Tongs",
+            "2 Skeletal Scrying",
+            "16 Swamp",
+            "4 The Rack",
+            "4 Wasteland"
+        ],
+        "SB": [
+            "1 Bottomless Pit",
+            "1 Chain of Smog",
+            "2 Drain Life",
+            "3 Dystopia",
+            "1 Ensnaring Bridge",
+            "3 Gloom",
+            "4 Withered Wretch"
+        ]
+    }
+}

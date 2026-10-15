@@ -1,0 +1,81 @@
+{
+    "36003907-SimpLyaDream": {
+        "player": "SimpLyaDream",
+        "loginplayeventcourseid": "36003907",
+        "loginid": "3108589",
+        "instance_id": "11145_2026-09-29",
+        "MD": [
+            "4 Altar of Dementia",
+            "4 Ancient Tomb",
+            "4 City of Brass",
+            "4 City of Traitors",
+            "1 Crosis's Catacombs",
+            "4 Defense Grid",
+            "4 Fling",
+            "4 Helm of Awakening",
+            "4 Intuition",
+            "3 Island",
+            "4 Lotus Petal",
+            "1 Mox Diamond",
+            "4 Phyrexian Devourer",
+            "4 Shivan Reef",
+            "3 Show and Tell",
+            "4 Tinker",
+            "4 Urza's Bauble"
+        ],
+        "SB": [
+            "1 Crumbling Sanctuary",
+            "1 Jester's Cap",
+            "1 Phyrexian Processor",
+            "3 Pyroclasm",
+            "3 Rushing River",
+            "1 Show and Tell",
+            "4 Tangle Wire",
+            "1 Tormod's Crypt"
+        ]
+    },
+    "36006264-golphinus": {
+        "player": "golphinus",
+        "loginplayeventcourseid": "36006264",
+        "loginid": "2108867",
+        "instance_id": "11145_2026-09-29",
+        "MD": [
+            "1 Anurid Brushhopper",
+            "4 Armageddon",
+            "1 Battlefield Forge",
+            "3 Call of the Herd",
+            "1 City of Traitors",
+            "1 Disenchant",
+            "2 Forest",
+            "3 Gemstone Mine",
+            "1 Karplusan Forest",
+            "4 Mox Diamond",
+            "1 Naturalize",
+            "3 Nimble Mongoose",
+            "2 Plains",
+            "2 Rishadan Port",
+            "2 Rith's Grove",
+            "1 Secluded Steppe",
+            "4 Swords to Plowshares",
+            "4 Sylvan Library",
+            "4 Terravore",
+            "1 Tranquil Thicket",
+            "2 Treetop Village",
+            "4 Wasteland",
+            "3 Weathered Wayfarer",
+            "2 Werebear",
+            "4 Windswept Heath"
+        ],
+        "SB": [
+            "2 Aura of Silence",
+            "1 Cursed Totem",
+            "1 Naturalize",
+            "1 Pyroblast",
+            "4 Pyroclasm",
+            "1 Ray of Revelation",
+            "2 Red Elemental Blast",
+            "1 Tormod's Crypt",
+            "2 Zuran Orb"
+        ]
+    }
+}

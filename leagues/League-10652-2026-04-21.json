@@ -1,0 +1,75 @@
+{
+    "34881569-Mistr": {
+        "player": "Mistr",
+        "loginplayeventcourseid": "34881569",
+        "loginid": "3071549",
+        "instance_id": "10652_2026-04-21",
+        "MD": [
+            "4 Argothian Enchantress",
+            "4 Brushland",
+            "4 Enchantress's Presence",
+            "3 Exploration",
+            "6 Forest",
+            "4 Mirri's Guile",
+            "3 Opalescence",
+            "3 Parallax Wave",
+            "2 Plains",
+            "2 Replenish",
+            "3 Seal of Cleansing",
+            "4 Serra's Sanctum",
+            "2 Solitary Confinement",
+            "3 Sterling Grove",
+            "3 Swords to Plowshares",
+            "4 Wild Growth",
+            "4 Windswept Heath",
+            "2 Wooded Foothills"
+        ],
+        "SB": [
+            "1 Abeyance",
+            "1 Aura of Silence",
+            "2 Gaea's Blessing",
+            "1 Karmic Justice",
+            "2 Sacred Ground",
+            "1 Solitary Confinement",
+            "1 Swords to Plowshares",
+            "2 Tormod's Crypt",
+            "4 Xantid Swarm"
+        ]
+    },
+    "34882523-Wartico1": {
+        "player": "Wartico1",
+        "loginplayeventcourseid": "34882523",
+        "loginid": "513901",
+        "instance_id": "10652_2026-04-21",
+        "MD": [
+            "3 Bloodstained Mire",
+            "4 Call of the Herd",
+            "3 Forest",
+            "4 Grim Lavamancer",
+            "4 Incinerate",
+            "4 Jackal Pup",
+            "4 Karplusan Forest",
+            "4 Lava Dart",
+            "4 Lightning Bolt",
+            "4 Mogg Fanatic",
+            "5 Mountain",
+            "3 Naturalize",
+            "3 Quirion Dryad",
+            "2 Seal of Fire",
+            "2 Sylvan Library",
+            "3 Treetop Village",
+            "4 Wooded Foothills"
+        ],
+        "SB": [
+            "1 Compost",
+            "2 Earthquake",
+            "2 Hidden Gibbons",
+            "1 Naturalize",
+            "2 Pyroblast",
+            "2 Ravenous Baloth",
+            "2 Red Elemental Blast",
+            "1 Tormod's Crypt",
+            "2 Tranquil Domain"
+        ]
+    }
+}

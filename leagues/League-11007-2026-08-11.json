@@ -1,0 +1,48 @@
+{
+    "35673733-Twirly": {
+        "player": "Twirly",
+        "loginplayeventcourseid": "35673733",
+        "loginid": "3330372",
+        "instance_id": "11007_2026-08-11",
+        "MD": [
+            "1 Cephalid Coliseum",
+            "3 City of Brass",
+            "3 Counterspell",
+            "2 Daze",
+            "1 Fire\/Ice",
+            "2 Fling",
+            "3 Flooded Strand",
+            "1 Forest",
+            "3 Gemstone Mine",
+            "3 Island",
+            "4 Lightning Bolt",
+            "3 Memory Lapse",
+            "1 Mountain",
+            "4 Nimble Mongoose",
+            "4 Phyrexian Dreadnought",
+            "4 Portent",
+            "1 Reflecting Pool",
+            "1 Shivan Reef",
+            "3 Stifle",
+            "1 Sylvan Library",
+            "1 Undiscovered Paradise",
+            "4 Vision Charm",
+            "3 Werebear",
+            "2 Winter Orb",
+            "1 Wooded Foothills",
+            "1 Yavimaya Coast"
+        ],
+        "SB": [
+            "1 Blastoderm",
+            "2 Naturalize",
+            "1 Pernicious Deed",
+            "1 Phyrexian Furnace",
+            "1 Pyroclasm",
+            "2 Red Elemental Blast",
+            "3 Swords to Plowshares",
+            "1 Tormod's Crypt",
+            "2 Tranquil Domain",
+            "1 Tsabo's Web"
+        ]
+    }
+}

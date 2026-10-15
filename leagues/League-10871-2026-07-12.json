@@ -1,0 +1,198 @@
+{
+    "35479976-Vyncint_Blankenship": {
+        "player": "Vyncint_Blankenship",
+        "loginplayeventcourseid": "35479976",
+        "loginid": "2199969",
+        "instance_id": "10871_2026-07-12",
+        "MD": [
+            "4 Barbarian Ring",
+            "4 Bloodstained Mire",
+            "2 Earthquake",
+            "4 Fireblast",
+            "4 Flame Rift",
+            "4 Grim Lavamancer",
+            "4 Incinerate",
+            "4 Lightning Bolt",
+            "4 Mishra's Factory",
+            "4 Mogg Fanatic",
+            "8 Mountain",
+            "2 Pyrostatic Pillar",
+            "4 Seal of Fire",
+            "4 Sulfuric Vortex",
+            "4 Wooded Foothills"
+        ],
+        "SB": [
+            "2 Earthquake",
+            "4 Overload",
+            "3 Price of Progress",
+            "2 Pyrostatic Pillar",
+            "4 Red Elemental Blast"
+        ]
+    },
+    "35480485-PraisePurphoros": {
+        "player": "PraisePurphoros",
+        "loginplayeventcourseid": "35480485",
+        "loginid": "3559125",
+        "instance_id": "10871_2026-07-12",
+        "MD": [
+            "1 City of Brass",
+            "1 Forest",
+            "3 Gempalm Incinerator",
+            "2 Goblin Goon",
+            "4 Goblin Lackey",
+            "4 Goblin Matron",
+            "4 Goblin Piledriver",
+            "4 Goblin Ringleader",
+            "1 Goblin Tinkerer",
+            "2 Goblin Vandal",
+            "4 Goblin Warchief",
+            "4 Karplusan Forest",
+            "4 Mogg Fanatic",
+            "10 Mountain",
+            "2 Naturalize",
+            "4 Rishadan Port",
+            "2 Siege-Gang Commander",
+            "4 Wooded Foothills"
+        ],
+        "SB": [
+            "1 Anarchy",
+            "2 Gaea's Blessing",
+            "1 Overload",
+            "4 Pyroblast",
+            "1 Pyrokinesis",
+            "2 Tormod's Crypt",
+            "4 Tranquil Domain"
+        ]
+    },
+    "35481316-otaba": {
+        "player": "otaba",
+        "loginplayeventcourseid": "35481316",
+        "loginid": "843536",
+        "instance_id": "10871_2026-07-12",
+        "MD": [
+            "4 Accumulated Knowledge",
+            "4 Counterspell",
+            "2 Daze",
+            "2 Flash of Insight",
+            "4 Foil",
+            "4 Gush",
+            "1 Intuition",
+            "17 Island",
+            "4 Opt",
+            "4 Phyrexian Dreadnought",
+            "4 Portent",
+            "1 Powder Keg",
+            "4 Stifle",
+            "1 Thwart",
+            "4 Vision Charm"
+        ],
+        "SB": [
+            "4 Annul",
+            "1 Blue Elemental Blast",
+            "2 Dominate",
+            "3 Essence Flare",
+            "1 Hydroblast",
+            "2 Morphling",
+            "2 Tsabo's Web"
+        ]
+    },
+    "35481881-SMolero": {
+        "player": "SMolero",
+        "loginplayeventcourseid": "35481881",
+        "loginid": "3105639",
+        "instance_id": "10871_2026-07-12",
+        "MD": [
+            "3 Abeyance",
+            "4 Adarkar Wastes",
+            "4 Ancient Tomb",
+            "4 Attunement",
+            "2 Decree of Silence",
+            "4 Flooded Strand",
+            "3 Frantic Search",
+            "3 Intuition",
+            "5 Island",
+            "4 Opalescence",
+            "4 Parallax Wave",
+            "5 Plains",
+            "4 Replenish",
+            "2 Seal of Cleansing",
+            "3 Skycloud Expanse",
+            "4 Swords to Plowshares",
+            "2 Tsabo's Web"
+        ],
+        "SB": [
+            "4 Defense Grid",
+            "3 Exalted Angel",
+            "3 Hydroblast",
+            "4 Meddling Mage",
+            "1 Seal of Cleansing"
+        ]
+    },
+    "35482978-BigZ6": {
+        "player": "BigZ6",
+        "loginplayeventcourseid": "35482978",
+        "loginid": "2746109",
+        "instance_id": "10871_2026-07-12",
+        "MD": [
+            "3 City of Brass",
+            "2 Forest",
+            "4 Gemstone Mine",
+            "4 Mishra's Factory",
+            "4 Mox Diamond",
+            "4 Oath of Druids",
+            "1 Plains",
+            "4 Rishadan Port",
+            "4 Sphere of Resistance",
+            "4 Swords to Plowshares",
+            "3 Sylvan Library",
+            "4 Terravore",
+            "3 Thermokarst",
+            "4 Treetop Village",
+            "2 Vindicate",
+            "4 Wasteland",
+            "3 Windswept Heath",
+            "3 Winter's Grasp"
+        ],
+        "SB": [
+            "2 Aura of Silence",
+            "3 Call of the Herd",
+            "2 Gloom",
+            "4 Meddling Mage",
+            "2 Pyroclasm",
+            "2 Vindicate"
+        ]
+    },
+    "35483454-tehdeem": {
+        "player": "tehdeem",
+        "loginplayeventcourseid": "35483454",
+        "loginid": "3468323",
+        "instance_id": "10871_2026-07-12",
+        "MD": [
+            "4 Adarkar Wastes",
+            "4 Ancient Tomb",
+            "4 Attunement",
+            "2 Decree of Silence",
+            "4 Flooded Strand",
+            "3 Frantic Search",
+            "3 Intuition",
+            "5 Island",
+            "2 Mana Leak",
+            "4 Opalescence",
+            "4 Parallax Wave",
+            "5 Plains",
+            "4 Replenish",
+            "3 Seal of Cleansing",
+            "3 Skycloud Expanse",
+            "4 Swords to Plowshares",
+            "2 Tsabo's Web"
+        ],
+        "SB": [
+            "3 Abeyance",
+            "4 Blue Elemental Blast",
+            "1 Decree of Silence",
+            "2 Exalted Angel",
+            "4 Meddling Mage",
+            "1 Tsabo's Web"
+        ]
+    }
+}
