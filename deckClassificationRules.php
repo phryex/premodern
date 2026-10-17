@@ -8,6 +8,12 @@ function applyDeckClassificationRules(array $deck, string $classification): arra
     $adjustedClassification = $originalClassification;
     $reasons = [];
 
+    if (strcasecmp($adjustedClassification, 'UW Standstill') === 0
+        && !deckContainsCard($deck, 'Standstill')) {
+        $adjustedClassification = 'UW Control';
+        $reasons[] = 'Standstill is absent';
+    }
+
     $hasMoxDiamond = deckContainsCard($deck, 'Mox Diamond');
     if ($hasMoxDiamond && classificationContainsWord($adjustedClassification, 'Moxless')) {
         $adjustedClassification = removeClassificationWord($adjustedClassification, 'Moxless');
