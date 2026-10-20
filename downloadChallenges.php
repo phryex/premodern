@@ -70,6 +70,8 @@ function challengeMain(): int
     foreach ($summaries as $summary) {
         echo PHP_EOL . $summary;
     }
+    echo PHP_EOL . ($payload['description'] ?? $slug) . " ($date)" . PHP_EOL . $url . PHP_EOL;
+
     return $failed ? 1 : 0;
 }
 
